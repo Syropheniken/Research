@@ -20,3 +20,9 @@
       - When talking about the Sun entering Aries, people might note a shift in the overall energy of the locality, making references to Aries' fiery, trend-setting, initiative energy. Should this in energy not be more attributed to the Spring equinox?
       - This is not to imply that the Sun's movement has no relevance
 
+
+List of topics
+ - Planets rulerships and pattern recognition
+ - The evolution of Sign rulership through the ages 
+ - Astronomy and sacred geometry
+ - Synchronicity of seasons/cycles of the Earth and Positional astronomy
