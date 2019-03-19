@@ -37,3 +37,4 @@ List of topics
     - How have the original associations been filtered through time and different cultures?
     - What are the similarities between the Babylonian Gods and the Greco-Roman Gods?
       - Can the differences be linked to the different environments and moral systems?
+  - Is anything actually lost when the Gods are abstracted out?
