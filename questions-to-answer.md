@@ -26,3 +26,5 @@ List of topics
  - The evolution of Sign rulership through the ages 
  - Astronomy and sacred geometry
  - Synchronicity of seasons/cycles of the Earth and Positional astronomy
+ - Synchronicity of Astrologies practical uses and predictions and Seasons/cycles of the Earch
+    - Conditions of the Earth at the time of birth
