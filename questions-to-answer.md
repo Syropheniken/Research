@@ -33,3 +33,7 @@ List of topics
     - Some positions and aspects can indicate the relationship with either mother and can describe the person's (future) children
       - Is this a way of predicting the conditions that influence a persons birth
       - Why is the Mother associated with the Moon - how does the Moon's position affect a persons relationship with her
+  - It is generally accepted that the origins of astrology that we know today came from Mesopotamia
+    - How have the original associations been filtered through time and different cultures?
+    - What are the similarities between the Babylonian Gods and the Greco-Roman Gods?
+      - Can the differences be linked to the different environments and moral systems?
