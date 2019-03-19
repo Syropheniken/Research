@@ -28,3 +28,8 @@ List of topics
  - Synchronicity of seasons/cycles of the Earth and Positional astronomy
  - Synchronicity of Astrologies practical uses and predictions and Seasons/cycles of the Earch
     - Conditions of the Earth at the time of birth
+    - Families will often have a "dominent planet" that is shared in some way; some positions and aspects can also be considered hereditary. 
+      - Can this be linked to any form of geneology
+    - Some positions and aspects can indicate the relationship with either mother and can describe the person's (future) children
+      - Is this a way of predicting the conditions that influence a persons birth
+      - Why is the Mother associated with the Moon - how does the Moon's position affect a persons relationship with her
